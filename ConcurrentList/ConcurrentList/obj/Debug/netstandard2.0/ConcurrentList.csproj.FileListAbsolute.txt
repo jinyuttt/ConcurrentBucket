@@ -1,0 +1,8 @@
+E:\Study\vs\ConcurrentQueue\ConcurrentList\ConcurrentList\obj\Debug\netstandard2.0\ConcurrentList.csproj.CoreCompileInputs.cache
+E:\Study\vs\ConcurrentQueue\ConcurrentList\ConcurrentList\obj\Debug\netstandard2.0\ConcurrentList.AssemblyInfoInputs.cache
+E:\Study\vs\ConcurrentQueue\ConcurrentList\ConcurrentList\obj\Debug\netstandard2.0\ConcurrentList.AssemblyInfo.cs
+E:\Study\vs\ConcurrentQueue\ConcurrentList\ConcurrentList\bin\Debug\netstandard2.0\ConcurrentList.deps.json
+E:\Study\vs\ConcurrentQueue\ConcurrentList\ConcurrentList\bin\Debug\netstandard2.0\ConcurrentList.dll
+E:\Study\vs\ConcurrentQueue\ConcurrentList\ConcurrentList\bin\Debug\netstandard2.0\ConcurrentList.pdb
+E:\Study\vs\ConcurrentQueue\ConcurrentList\ConcurrentList\obj\Debug\netstandard2.0\ConcurrentList.dll
+E:\Study\vs\ConcurrentQueue\ConcurrentList\ConcurrentList\obj\Debug\netstandard2.0\ConcurrentList.pdb
